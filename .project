@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PetStore_RestAssured_Automation</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/java/api/utilities/ExtentReportManager.java</name>
+			<type>1</type>
+			<location>E:/API testing/Day 20 Framework Part-2/ExtentReportManager.java</location>
+		</link>
+		<link>
+			<name>src/test/java/api/utilities/XLUtility.java</name>
+			<type>1</type>
+			<location>E:/API testing/Day 20 Framework Part-2/XLUtility.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

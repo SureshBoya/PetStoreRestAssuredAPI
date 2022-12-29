@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T15:35:03 IST" name="PetStore" finished-at="2022-12-29T15:35:37 IST" duration-ms="34679">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T15:35:03 IST" name="TestCases" finished-at="2022-12-29T15:35:37 IST" duration-ms="34679">
+      <class name="api.test.CreateListOfUsers">
+        <test-method signature="setUpData()[pri:0, instance:api.test.CreateListOfUsers@2805d709]" started-at="2022-12-29T15:35:04 IST" name="setUpData" finished-at="2022-12-29T15:35:37 IST" duration-ms="33748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+      </class> <!-- api.test.CreateListOfUsers -->
+    </test> <!-- TestCases -->
+  </suite> <!-- PetStore -->
+</testng-results>
